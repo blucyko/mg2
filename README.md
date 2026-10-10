@@ -2,7 +2,8 @@
 ## Devlog
 **1. Tell me about an issue you encountered while writing your code, like an error or bug, and how you fixed it. This is preferably an error you had while writing your own code, but if all of your code was error-free code on the first try, then tell me about the error you got when fixing the if statement in Step 2.**  
 
-When fixing the if statement in Step 2, the if statement was missing the closing parentheses meaning a syntazx error. This syntax error was fixed by adding the requiring closing parentheses for the if condition.
+When fixing the if statement in Step 2, the if statement was missing the closing parentheses meaning a syntax error. This syntax error was fixed by adding the requiring closing parentheses for the if condition.
+
 
 **2. Give me your best guess as to what is going on in this line of code:
 _spriteRenderer.color = new Color(r, 0.2f, 0.2f);
